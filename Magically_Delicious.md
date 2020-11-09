@@ -5,7 +5,7 @@ Can you help me decipher this message?
 Note: If you don't see a message above, make sure your browser can render emojis.  
 Tip: If you're digging into the unicode encoding of the emojis, you're on the wrong track!  
 CÁCH GIẢI:   
-Nhìn vào các kí tự trên ta sẽ nhận ra được 3 điểm đặc biệt của bài:  
+Nhìn vào các kí tự trên ta sẽ nhận ra được 2 điểm đặc biệt của bài:  
 I. Có tất cả 8 kí tự khác nhau: ⭐🌈🍀🦄🎈🌑🐴💜  
 II. Có quy luật 3 emoji đứng chung với nhau   
 => Hệ Bát Phân (OCTAL)  
