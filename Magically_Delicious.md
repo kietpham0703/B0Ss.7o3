@@ -23,4 +23,4 @@ def octal_to_str(octal_str):  #Hàm chuyển octal sang string
     return str_converted
 print(octal_to_str(x.translate(trans)))   
 ```
-flag: sun{lucky-octal-encoding-is-the-best-encoding-method}
+flag: sun{lucky-octal-encoding-is-the-best-encoding-method}   
