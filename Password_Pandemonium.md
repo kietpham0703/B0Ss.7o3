@@ -12,7 +12,7 @@ Username: admin Password: abc123456 báo lỗi:
 2.Error! Password must include more than two special characters.(mật khẩu phải bao gồm nhiều hơn hai ký tự đặc biệt) 
   
 Username: admin Password: ""abc123456"" báo lỗi:  
-3.Error! Password must include a prime amount of numbers.(mật khẩu phải bao gồm một số nguyên tố 2,3,5,7.....)  
+3.Error! Password must include a prime amount of numbers.(mật khẩu bao gồm 1 số nguyên tố các chữ số 2,3,5,7.....)  
   
 Username: admin Password: "abc3"3abc" báo lỗi:  
 4.Error! Password must have equal amount of uppercase and lowercase characters.(mật khẩu phải có số lượng ký tự viết hoa và viết thường bằng nhau Vd:Aa,Bb,Cc...)  
